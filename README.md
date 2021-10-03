@@ -12,7 +12,7 @@
 
 <h2>What is AES?</h2>
 
-<p>Advanced Encryption Standard (AES) or Rijndael is a symmetric encryption algorithm. It' </p>
+<p></p>
 
 <h2>Our work</h2>
 
