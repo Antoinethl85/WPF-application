@@ -27,10 +27,10 @@
         <Label Grid.Column="1" HorizontalAlignment="Center">Decode application</Label>
         
         <StackPanel Grid.Row="1" Grid.Column="1">
-            <TextBox x:Name="inputText"/>
-            <TextBox x:Name="inputKey"/>
-            <TextBox x:Name="inputVector"/>
-            <Button x:Name="btnDecode" Click="ButtonDecode_Click">Decode</Button>
+            <TextBox Text="Input text" x:Name="inputText"/>
+            <TextBox Text="Key" x:Name="inputKey"/>
+            <TextBox Text="Initialization vector" x:Name="inputVector"/>
+            <Button Click="ButtonDecode_Click">Decode</Button>
         </StackPanel>
         
         <TextBox Grid.Column="1" Grid.Row="2" x:Name="outputText"/>
@@ -38,10 +38,10 @@
         <Label Grid.Row="4" Grid.Column="1" HorizontalAlignment="Center">Encode application</Label>
         
         <StackPanel Grid.Row="5" Grid.Column="1">
-            <TextBox x:Name="inputTextC"/>
-            <TextBox x:Name="inputKeyC"/>
-            <TextBox x:Name="inputVectorC"/>
-            <Button x:Name="btnEncode" Click="ButtonEncode_Click">Encode</Button>
+            <TextBox Text="Input text" x:Name="inputTextC"/>
+            <TextBox Text="Key" x:Name="inputKeyC"/>
+            <TextBox Text="Initialization vector" x:Name="inputVectorC"/>
+            <Button Click="ButtonEncode_Click">Encode</Button>
         </StackPanel>
         
         <TextBox Grid.Column="1" Grid.Row="6" x:Name="outputTextC"/>
