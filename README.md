@@ -17,8 +17,7 @@
 <h2>Our work</h2>
 
 <p>First of all, we started by the structure. So, we edited the .xaml file to have a clear and simple visual interface. AFter that, we went into the hardest part. We learnt about AES encryption algorithm (not enough because we were a bit late in our work) and started the implementationof this algorithm.</p>
-<p>So, basicly our application is divided in 2 parts : decryption and encryption. You need to enter the code you want to decrypt/encrypt, you also need a key and an initialization vector. Then, you just have to press the button and the app will run (I don't know why it doesn't work i tried multiple things to fix this but failed every time ...).</p>
-<p><strong>We didn't achieve to convert our WPF application into a .exe programm. Sorry for the inconvenience.</strong></p>
+<p>So, basicly our application is divided in 2 parts : decryption and encryption. You need to enter the code you want to decrypt/encrypt, you also need a key and an initialization vector. Then, you just have to press the button and the app will run (<strong>I don't know why it doesn't work i tried multiple things to fix this but failed every time ...</strong>).</p>
 
 <h2>Bibliography</h2>
 
