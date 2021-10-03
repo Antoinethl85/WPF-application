@@ -12,7 +12,15 @@
 
 <h2>What is AES?</h2>
 
-<p></p>
+<p>The Advanced Encryption Standard (AES) is a symmetric block cipher chosen by the US government to protect classified information.
+How AES encryption works
+AES includes three block ciphers:
+
+AES-128 uses a 128-bit key length to encrypt and decrypt a block of messages.
+AES-192 uses a 192-bit key length to encrypt and decrypt a block of messages.
+AES-256 uses a 256-bit key length to encrypt and decrypt a block of messages.Each cipher encrypts and decrypts data in 128-bit blocks using 128-, 192- and 256-bit cryptographic keys, respectively.
+
+Symmetric, also known as secret key, encryptions use the same key to encrypt and decrypt. Both the sender and receiver must know - and use - the same secret key.</p>
 
 <h2>Our work</h2>
 
